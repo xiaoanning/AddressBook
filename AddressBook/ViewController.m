@@ -14,7 +14,6 @@
 {
     HZBAddressBookUtil * _util ;
 }
-@property ( nonatomic , copy ) void(^callbackContacts)(HZBContactsModel * model , ErrorEnum error) ;
 
 @end
 

@@ -7,7 +7,7 @@
 //
 
 
-//ips：如果要适配iOS 10，就必须在plist文件的Source code模式下添加
+//tips：如果要适配iOS 10，就必须在plist文件的Source code模式下添加
 ///<key>NSContactsUsageDescription</key>  Privacy - Contacts Usage Description
 ///<string>App需要您的同意,才能访问通讯录</string>
 
